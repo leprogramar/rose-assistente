@@ -16,7 +16,48 @@ O projeto Rose oferece as seguintes funcionalidades principais:
 
 Certifique-se de ter as seguintes bibliotecas instaladas em sua máquina antes de executar o projeto:
 
-- Lista de bibliotecas...
+- Lista de bibliotecas:
+- beautifulsoup4           4.12.2
+bs4                      0.0.1
+cachetools               5.3.1
+certifi                  2023.7.22
+charset-normalizer       3.2.0
+click                    8.1.6
+colorama                 0.4.6
+gcloud                   0.18.3
+google-api-core          2.11.1
+google-api-python-client 2.97.0
+google-auth              2.22.0
+google-auth-httplib2     0.1.0
+google-cloud-speech      2.21.0
+googleapis-common-protos 1.60.0
+grpcio                   1.57.0
+grpcio-status            1.57.0
+gTTS                     2.3.2
+httplib2                 0.22.0
+idna                     3.4
+importlib-metadata       6.7.0
+oauth2client             4.1.3
+pip                      23.2.1
+playsound                1.2.2
+proto-plus               1.22.3
+protobuf                 4.24.0
+pyasn1                   0.5.0
+pyasn1-modules           0.3.0
+PyAudio                  0.2.13
+pyparsing                3.1.1
+requests                 2.31.0
+rsa                      4.9
+setuptools               65.5.1
+six                      1.16.0
+soupsieve                2.4.1
+SpeechRecognition        3.9.0
+typing_extensions        4.7.1
+uritemplate              4.1.1
+urllib3                  1.26.16
+wheel                    0.38.4
+zipp                     3.15.0
+
 
 ## Como Executar
 
