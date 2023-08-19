@@ -40,7 +40,7 @@ def executa_comandos(trigger):
     else:
         mensagem = trigger.strip(hotword)
         cria_audio(mensagem)
-        print('COMANDO INVALIDO', mensagem)
+        print('COMANDO INVALIDO: ', mensagem)
         responde('comando-invalido')
 
 def monitora_audio():
