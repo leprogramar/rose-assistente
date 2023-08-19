@@ -47,7 +47,7 @@ def monitora_audio():
     microfone = sr.Recognizer()
     with sr.Microphone() as source:
         while True:
-            print("Aguardando o Comando: ")
+            print("->Aguardando o Comando: ")
             audio = microfone.listen(source)
             try:
                 trigger = microfone.recognize_google_cloud(audio, credentials_json='credenciais/rose-python-assitente-1221a3067ae7.json', language='pt-BR')
